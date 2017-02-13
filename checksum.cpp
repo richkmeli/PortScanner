@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #include "checksum.h"
 
 unsigned short checksum(unsigned short *addr, int len) {

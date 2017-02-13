@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #include "communication.h"
 
 const char* send_packet(unsigned char* packet, const char* dst, const char* port, int size_ip,

@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #ifndef COMMUNICATION_H_
 #define COMMUNICATION_H_
 

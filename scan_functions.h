@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #ifndef SCAN_FUNCTIONS_H_
 #define SCAN_FUNCTIONS_H_
 

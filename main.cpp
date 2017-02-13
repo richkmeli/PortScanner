@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #include <iostream>
 #include <cstdlib>
 #include <string>

@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #include "scan_functions.h"
 
 void SYN_scan(const char* src, const char* dst, const char* port) {

@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #ifndef ARGUMENTSMANAGER_H_
 #define ARGUMENTSMANAGER_H_
 

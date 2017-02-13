@@ -1,3 +1,7 @@
+/*
+ *     Copyright 2016 Riccardo Melioli. All Rights Reserved.
+ */
+
 #include "ArgumentsManager.h"
 
 ArgumentsManager::ArgumentsManager(int argc, char* argv[]){
