@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scan_config>
+  <target>google.com</target>
+  <ports>80,443,8080,8443</ports>
+  <scan_type>tcp</scan_type>
+  <ip_version>auto</ip_version>
+  <timeout>5000</timeout>
+  <threads>50</threads>
+  <verbose>true</verbose>
+  <service_detection>true</service_detection>
+  <banner_grabbing>true</banner_grabbing>
+  <output_format>txt</output_format>
+</scan_config>

@@ -1,0 +1,13 @@
+{
+  "target": "target.example.com",
+  "ports": "1-65535",
+  "scan_type": "syn",
+  "ip_version": "auto",
+  "timeout": 1000,
+  "threads": 1000,
+  "verbose": true,
+  "service_detection": true,
+  "banner_grabbing": false,
+  "output_format": "xml",
+  "output_file": "full_scan_results.xml"
+}
